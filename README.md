@@ -36,6 +36,7 @@ Admin/view/layout/admin-layout.phtml
 
 Than in yout config register layouts:
 
+```
 'module_layouts' => [
     'Web' => 'layout/web-layout',
     'Admin' => 'layout/admin-layout',
