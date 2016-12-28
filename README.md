@@ -17,9 +17,9 @@ Add in your **composer.json** file:
     }
 }
 ```
-After running: *sudo composer update* 
+After running: **sudo composer update** you need to register new module. 
 
-You need to register new module. Add in file **config/application.config.php**: 
+Add in file **config/application.config.php**: 
 
 ```
 'modules' => array(
