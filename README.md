@@ -45,7 +45,6 @@ Than in yout config register layouts:
 ],
 
 ```
-
 *Note: You can define each line in separate config: 'module_layouts' => ['Module' => 'layout/layout-name']*
 
 
