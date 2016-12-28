@@ -1,4 +1,4 @@
-# Layout change per module
+# Change layout per module
 
 If you have modular app you probably want more that a single layout for eg. admin-layout and web-layout.
 Currently that is not supported by default in zend framework.
