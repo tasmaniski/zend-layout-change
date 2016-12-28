@@ -48,6 +48,4 @@ Than in yout config register layouts:
 *Note: You can define each line in separate module's config: 'module_layouts' => ['Module' => 'layout/layout-name']*
 
 
-That's all! 
-
-Now you will have a layout for each module. 
+Wish you a very Happy New Year!
