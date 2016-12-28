@@ -29,7 +29,7 @@ You need to register new module. Add in file **config/application.config.php**:
 ```
 
 ## How to Use it
-You have to create layout.phtml file per modul. if you have Admin and Web modules create:
+You have to create layout.phtml file per modul. For eg. if you have Admin and Web modules, you should create:
 
 Web/view/layout/web-layout.phtml  and 
 Admin/view/layout/admin-layout.phtml
