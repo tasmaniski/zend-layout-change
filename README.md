@@ -27,3 +27,22 @@ You need to register new module. Add in file **config/application.config.php**:
     'LayoutChange'
 ),
 ```
+
+## How to Use it
+You have to create layout.phtml file per modul. if you have Admin and Web modules create:
+
+Web/view/layout/web-layout.phtml  and 
+Admin/view/layout/admin-layout.phtml
+
+Than in yout config register layouts:
+
+'module_layouts' => [
+    'Web' => 'layout/web-layout',
+    'Admin' => 'layout/admin-layout',
+],
+
+```
+
+That's all! 
+
+Now you will have a layout for each module. 
